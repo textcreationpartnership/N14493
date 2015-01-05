@@ -110,12 +110,13 @@
    <text xml:lang="eng">
       <front>
          <div type="half_title">
-            <pb facs="tcp:018365_0000_0FA6A5F751846000"/>
-            <pb facs="tcp:018365_0001_0FA6A5F9AFE08FB0"/>
+            <pb facs="unknown:018365_0000_0FA6A5F751846000"/>
+            <pb facs="unknown:018365_0001_0FA6A5F9AFE08FB0"/>
             <p>THE Mercenary Match.</p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:018365_0002_0FA6A5F9F7C98A38" rendition="simple:additions"/>
+            <pb facs="unknown:018365_0002_0FA6A5F9F7C98A38"
+                rendition="simple:additions"/>
             <p>THE MERCENARY MATCH, A TRAGEDY.</p>
             <p>BY BARNA BIDWELL.</p>
             <p>CHARACTERISTICS.</p>
@@ -142,8 +143,9 @@
             <p>NEW-HAVEN: Printed by MEIGS, BOWEN and DANA, In CHAPEL-STREET.</p>
          </div>
          <div type="prologue">
-            <pb facs="tcp:018365_0003_0FA6A5FAB7D75190" rendition="simple:additions"/>
-            <pb facs="tcp:018365_0004_0FA6A5FB78FA3268"/>
+            <pb facs="unknown:018365_0003_0FA6A5FAB7D75190"
+                rendition="simple:additions"/>
+            <pb facs="unknown:018365_0004_0FA6A5FB78FA3268"/>
             <head>PROLOGUE.</head>
             <l>GOOD friends, who come to hear and ſee the play,</l>
             <l>Our Author bids me juſt appear and ſay,</l>
@@ -160,7 +162,7 @@
             <l>A ſimple circumſtance of common life.</l>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:018365_0005_0FA6A5FC37373D18"/>
+            <pb facs="unknown:018365_0005_0FA6A5FC37373D18"/>
             <head>DRAMATIS PERSONAE.</head>
             <list>
                <head>MEN.</head>
@@ -184,7 +186,7 @@
       </front>
       <body>
          <div type="play">
-            <pb facs="tcp:018365_0006_0FA6A5FCF71F86C8"/>
+            <pb facs="unknown:018365_0006_0FA6A5FCF71F86C8"/>
             <head>THE MERCENARY MATCH.</head>
             <div n="1" type="act">
                <head>ACT I.</head>
@@ -216,7 +218,7 @@
                <l>Join'd with a partner, whom my ſoul deteſts.</l>
                <l>Unthinking maid! Why did my tongue conſent,</l>
                <l>
-                  <pb n="8" facs="tcp:018365_0007_0FA6A5FDB7BF02E8"/>To change my name, my fortune and my <hi>all?</hi>
+                  <pb n="8" facs="unknown:018365_0007_0FA6A5FDB7BF02E8"/>To change my name, my fortune and my <hi>all?</hi>
                </l>
                <l>Againſt my own deſire, I gave my hand,</l>
                <l>(Oh! let oblivion blaſt the painful thought!)</l>
@@ -277,7 +279,7 @@
                   <l>I am afraid,</l>
                   <l>Thoſe fits of faintneſs, which thou often haſt,</l>
                   <l>
-                     <pb n="9" facs="tcp:018365_0008_0FA6A5FE77715FE8"/>On ſudden ſhocks, are coming on again.</l>
+                     <pb n="9" facs="unknown:018365_0008_0FA6A5FE77715FE8"/>On ſudden ſhocks, are coming on again.</l>
                   <l>Shall I not run, and fetch thy cordial drops?
 <stage>[Going.]</stage>
                   </l>
@@ -350,7 +352,7 @@
                   <l>Why wilt thou not partake the ſpreading joy?</l>
                </sp>
                <sp>
-                  <pb n="10" facs="tcp:018365_0009_0FA6A6009E0257B0"/>
+                  <pb n="10" facs="unknown:018365_0009_0FA6A6009E0257B0"/>
                   <speaker>Mrs. J.</speaker>
                   <l>O that ſuch thoughts could bury up my pains!</l>
                   <l>But all attempts, like theſe, though meant for good,</l>
@@ -413,7 +415,7 @@
                   <l>Though thou diſlik'dſt his perſon at the firſt,</l>
                   <l>That time would pour the balm of love,</l>
                   <l>
-                     <pb n="11" facs="tcp:018365_0010_0FA6A600B921EE48"/>Into thy mind, and heal the feſtering wound.</l>
+                     <pb n="11" facs="unknown:018365_0010_0FA6A600B921EE48"/>Into thy mind, and heal the feſtering wound.</l>
                </sp>
                <sp>
                   <speaker>Mrs. J.</speaker>
@@ -497,7 +499,7 @@
                   <speaker>Mr. J.</speaker>
                   <l>Delightful proſpect! How it fills the mind,</l>
                   <l>
-                     <pb n="12" facs="tcp:018365_0011_0FA6A60179B0BCE0"/>With ſentiments of joyful gratitude!</l>
+                     <pb n="12" facs="unknown:018365_0011_0FA6A60179B0BCE0"/>With ſentiments of joyful gratitude!</l>
                   <l>For every thing conſpires, to give delight.</l>
                   <l>Dread winter lately bound the earth with ice,—</l>
                   <l>In howling tempeſts ſwept along our coaſts,</l>
@@ -569,7 +571,7 @@
                   <l>To act according to thy choice.</l>
                </sp>
                <sp>
-                  <pb n="13" facs="tcp:018365_0012_0FA6A6023A227A10"/>
+                  <pb n="13" facs="unknown:018365_0012_0FA6A6023A227A10"/>
                   <speaker>Mrs. J.</speaker>
                   <l>'Tis fairly offered. I will ſee my friends,</l>
                   <l>To take their counſel, in this new affair;</l>
@@ -618,7 +620,7 @@
                <l>Were both purſuing his immediate good,</l>
                <l>He's almoſt weary of the endleſs game.</l>
                <l>
-                  <pb n="14" facs="tcp:018365_0013_0FA6A602F72FC308"/>If he ſhould come, as I am ſure he will,</l>
+                  <pb n="14" facs="unknown:018365_0013_0FA6A602F72FC308"/>If he ſhould come, as I am ſure he will,</l>
                <l>My chief concern will be, to bolſter up</l>
                <l>His fainting hopes, and ſeem, if poſſible,</l>
                <l>Devoted wholly to his private cauſe;</l>
@@ -693,7 +695,7 @@
                   <speaker>Lynd.</speaker>
                   <l>Attach'd to me! Why did you then betray</l>
                   <l>
-                     <pb n="15" facs="tcp:018365_0014_0FA6A603BA353AD8"/>And diſappoint my expectations?</l>
+                     <pb n="15" facs="unknown:018365_0014_0FA6A603BA353AD8"/>And diſappoint my expectations?</l>
                </sp>
                <sp>
                   <speaker>Shap.</speaker>
@@ -770,7 +772,7 @@
                   <speaker>Lynd.</speaker>
                   <l>My own expereince gives ſufficient proof</l>
                   <l>
-                     <pb n="16" facs="tcp:018365_0015_0FA6A60479EB7BF0"/>Of your miſtake. Depreſt with dull fatigue,</l>
+                     <pb n="16" facs="unknown:018365_0015_0FA6A60479EB7BF0"/>Of your miſtake. Depreſt with dull fatigue,</l>
                   <l>I curſe the giddy chace.</l>
                </sp>
                <sp>
@@ -832,7 +834,7 @@
                   <l>I know misfortune is the common lot;</l>
                   <l>
                      <pb n="17"
-                         facs="tcp:018365_0016_0FA6A6053A1A6F78"
+                         facs="unknown:018365_0016_0FA6A6053A1A6F78"
                          rendition="simple:additions"/>Yet, why complain? We cannot change our ſtate.</l>
                   <l>Come, enter in the liſt of fame.</l>
                </sp>
@@ -908,7 +910,7 @@
                   <l>I have no friend, beſide yourſelf,</l>
                   <l>To whom I can, with ſafety, truſt my thoughts!</l>
                   <l>
-                     <pb n="18" facs="tcp:018365_0017_0FA6A605F9BD6328"/>And I am quite aſham'd to trouble you.</l>
+                     <pb n="18" facs="unknown:018365_0017_0FA6A605F9BD6328"/>And I am quite aſham'd to trouble you.</l>
                </sp>
                <sp>
                   <speaker>Shap.</speaker>
@@ -995,7 +997,7 @@
                   <l>He'll introduce me to his rival's houſe,</l>
                   <l>Where I intend indeed to act the ſpy,</l>
                   <l>
-                     <pb n="19" facs="tcp:018365_0018_0FA6A6070560EC30"/>But on my own account, inſtead of his,</l>
+                     <pb n="19" facs="unknown:018365_0018_0FA6A6070560EC30"/>But on my own account, inſtead of his,</l>
                   <l>I mean to carve a portion firſt for me;</l>
                   <l>And afterwards let others help themſelves.</l>
                   <l>How?—That's the query—Let me think.
@@ -1062,7 +1064,7 @@
                   <l>Whom I have ever found to be my friend.</l>
                </sp>
                <sp>
-                  <pb n="20" facs="tcp:018365_0019_0FA6A60943D5B468"/>
+                  <pb n="20" facs="unknown:018365_0019_0FA6A60943D5B468"/>
                   <speaker>Shap.</speaker>
                   <l>What I have ever been, I ſtill remain.</l>
                   <l>So far as confidence may be repos'd</l>
@@ -1155,7 +1157,7 @@
                   <l>I would not ſtand, and peeviſhly complain<g ref="char:punc">▪</g>
                   </l>
                   <l>
-                     <pb n="21" facs="tcp:018365_0020_0FA6A609B9E83800"/>But I am burdened, with a weight of woe,</l>
+                     <pb n="21" facs="unknown:018365_0020_0FA6A609B9E83800"/>But I am burdened, with a weight of woe,</l>
                   <l>Which, like a mountain, ſinks me down to grief.</l>
                </sp>
                <sp>
@@ -1264,7 +1266,7 @@
                   <p>I don't object to him.</p>
                </sp>
                <sp>
-                  <pb n="22" facs="tcp:018365_0021_0FA6A60A77BA1530"/>
+                  <pb n="22" facs="unknown:018365_0021_0FA6A60A77BA1530"/>
                   <speaker>Mr. J.</speaker>
                   <l>I'll ſee the gentleman,</l>
                   <l>And offer him the truſt.</l>
@@ -1355,7 +1357,7 @@
                   <l>Between this ill-match'd pair; which muſt be done.</l>
                   <l>I've ſworn their final ruin, ever ſince</l>
                   <l>
-                     <pb n="23" facs="tcp:018365_0022_0FA6A60B383B66A8"/>Her father gave her to his rival arms.</l>
+                     <pb n="23" facs="unknown:018365_0022_0FA6A60B383B66A8"/>Her father gave her to his rival arms.</l>
                   <l>I can't endure the thought of my repulſe;</l>
                   <l>It ſpurs my ſpirits on, to ſeek revenge.</l>
                   <l>Thus far, I have ſucceeded pretty well:</l>
@@ -1403,7 +1405,7 @@
                   <p>In ſtore, all ready to be put on board.</p>
                </sp>
                <sp>
-                  <pb n="24" facs="tcp:018365_0023_0FA6A60BF74E7668"/>
+                  <pb n="24" facs="unknown:018365_0023_0FA6A60BF74E7668"/>
                   <speaker>Mr. J.</speaker>
                   <l>The preparation for my voyage ſucceeds,</l>
                   <l>According to my wiſh. Did nothing elſe</l>
@@ -1491,7 +1493,7 @@
                   <l>Of chooſing for herſelf—then add complaints!</l>
                </sp>
                <sp>
-                  <pb n="25" facs="tcp:018365_0024_0FA6A60CB74C1CD8"/>
+                  <pb n="25" facs="unknown:018365_0024_0FA6A60CB74C1CD8"/>
                   <speaker>Mr. J.</speaker>
                   <p>I'm nearly weary of her, I confeſs.</p>
                </sp>
@@ -1566,7 +1568,7 @@
                   <l>But <hi>Vaſhti</hi>-like, ſhe muſt be ſtill ador'd,</l>
                   <l>Or elſe—farewell to all domeſtic peace!</l>
                   <l>
-                     <pb n="26" facs="tcp:018365_0025_0FA6A60D773996A8"/>For ſhe will ſet the keeneſt edge of ſpleen</l>
+                     <pb n="26" facs="unknown:018365_0025_0FA6A60D773996A8"/>For ſhe will ſet the keeneſt edge of ſpleen</l>
                   <l>Upon the adverſe incidents of life,</l>
                   <l>And change a paradiſe of ſocial joy,</l>
                   <l>Into a hell of bickering and rage.</l>
@@ -1645,7 +1647,7 @@
                   <l>How? There's no difficulty, in the caſe:</l>
                   <l>For woman is as weak as proud.</l>
                   <l>
-                     <pb n="27" facs="tcp:018365_0026_0FA6A60E3A3B0738"/>Pride has its origin in impotence.</l>
+                     <pb n="27" facs="unknown:018365_0026_0FA6A60E3A3B0738"/>Pride has its origin in impotence.</l>
                   <l>Apply a little oppoſition to her will;</l>
                   <l>And, though her rage may bluſter up a while,</l>
                   <l>The ſtorm will very ſoon ſubſide.</l>
@@ -1724,7 +1726,7 @@
                   <l>Moſt ſurely cannot ſtand. Then let it fall.</l>
                   <l>What need I care? It will not fall on me.</l>
                   <l>
-                     <pb n="28" facs="tcp:018365_0027_0FA6A61081D8A800"/>Yet what a wretch I am, to triumph thus,</l>
+                     <pb n="28" facs="unknown:018365_0027_0FA6A61081D8A800"/>Yet what a wretch I am, to triumph thus,</l>
                   <l>In the misfortunes of my fellow men!</l>
                   <l>'Tis truly deviliſh; I confeſs, it is.</l>
                   <l>I would not undertake it for the world,</l>
@@ -1810,7 +1812,7 @@
                         <desc>〈◊〉</desc>
                      </gap> of my hopes,</l>
                   <l>
-                     <pb n="29" facs="tcp:018365_0028_0FA6A611372F0788"/>And has, as it deſerves, my hearty thanks.</l>
+                     <pb n="29" facs="unknown:018365_0028_0FA6A611372F0788"/>And has, as it deſerves, my hearty thanks.</l>
                </sp>
                <sp>
                   <speaker>Shap.</speaker>
@@ -1880,7 +1882,7 @@ Upon the honour of a Gentleman,</l>
                   <speaker>Shap.</speaker>
                   <l>'Tis nobly ſaid. Thou reaſoneſt like a man.</l>
                   <l>
-                     <pb n="30" facs="tcp:018365_0029_0FA6A611F7A865D8"/>Thy brave reſolve, at leaſt, deſerves ſucceſs;</l>
+                     <pb n="30" facs="unknown:018365_0029_0FA6A611F7A865D8"/>Thy brave reſolve, at leaſt, deſerves ſucceſs;</l>
                   <l>It will ſupport my ſpirits, while I ſtrive,</l>
                   <l>To learn the movements of thy rival's ſchemes.</l>
                </sp>
@@ -1970,7 +1972,7 @@ Upon the honour of a Gentleman,</l>
                   <speaker>Shap.</speaker>
                   <l>Aye, that is true, it is indeed a taſk.</l>
                   <l>
-                     <pb n="31" facs="tcp:018365_0030_0FA6A612B7EF9098"/>Her folly renders it a needful one,</l>
+                     <pb n="31" facs="unknown:018365_0030_0FA6A612B7EF9098"/>Her folly renders it a needful one,</l>
                   <l>In order for a quiet life.</l>
                </sp>
                <sp>
@@ -2057,7 +2059,7 @@ Upon the honour of a Gentleman,</l>
                      </stage>
                   </l>
                   <l>
-                     <pb n="32" facs="tcp:018365_0031_0FA6A613772E6378"/>I heartily rejoice with thee, my friend.</l>
+                     <pb n="32" facs="unknown:018365_0031_0FA6A613772E6378"/>I heartily rejoice with thee, my friend.</l>
                </sp>
                <sp>
                   <speaker>Lynd.</speaker>
@@ -2131,7 +2133,7 @@ Upon the honour of a Gentleman,</l>
                   <l>That I may hang no longer in ſuſpence.</l>
                </sp>
                <sp>
-                  <pb n="33" facs="tcp:018365_0032_0FA6A614389FC5F8"/>
+                  <pb n="33" facs="unknown:018365_0032_0FA6A614389FC5F8"/>
                   <speaker>Sh.</speaker>
                   <l>I muſt be very brief.</l>
                   <l>Among the incidents of our diſcourſe,</l>
@@ -2215,7 +2217,7 @@ Upon the honour of a Gentleman,</l>
                   <l>Aye, that is well obſerv'd.</l>
                   <l>The ſecret muſt be kept, and well thou know'ſt,</l>
                   <l>
-                     <pb n="34" facs="tcp:018365_0033_0FA6A614F7570DA0"/>A ſecret is a dangerous, ſlippery thing:</l>
+                     <pb n="34" facs="unknown:018365_0033_0FA6A614F7570DA0"/>A ſecret is a dangerous, ſlippery thing:</l>
                   <l>Juſt like a priſoner immur'd in goal,</l>
                   <l>It peaks through bluſhing cheeks and conſcious eyes,</l>
                   <l>As through the windows of a priſon hall;</l>
@@ -2277,7 +2279,7 @@ Upon the honour of a Gentleman,</l>
                   <p>Nor I. His conduct is a paradox to me.</p>
                </sp>
                <sp>
-                  <pb n="35" facs="tcp:018365_0034_0FA6A6160BF439F8"/>
+                  <pb n="35" facs="unknown:018365_0034_0FA6A6160BF439F8"/>
                   <speaker>Mrs. J.</speaker>
                   <l>I ſhudder at th' event.</l>
                   <l>Could I be ſet at liberty from him—</l>
@@ -2349,7 +2351,7 @@ Upon the honour of a Gentleman,</l>
                   <speaker>Mrs. J.</speaker>
                   <l>Ah! wretched me!</l>
                   <l>
-                     <pb n="36" facs="tcp:018365_0035_0FA6A618286FE9D8"/>The poor remains of what <hi>Amanda</hi> was!</l>
+                     <pb n="36" facs="unknown:018365_0035_0FA6A618286FE9D8"/>The poor remains of what <hi>Amanda</hi> was!</l>
                   <l>Where are my charms, my once-admired charms?</l>
                   <l>Where have my friends and fawning lovers fled?</l>
                   <l>Farewell, my ſchemes of love and happineſs!</l>
@@ -2419,7 +2421,7 @@ Upon the honour of a Gentleman,</l>
                   <l>To draw aſide the intervening veil,</l>
                   <l>That I might peep into the unſeen world,</l>
                   <l>
-                     <pb n="37" facs="tcp:018365_0036_0FA6A618B72631D0"/>And view the ſecrets of futurity!</l>
+                     <pb n="37" facs="unknown:018365_0036_0FA6A618B72631D0"/>And view the ſecrets of futurity!</l>
                   <l>O blind futurity! diſcloſe thy ſcenes,</l>
                   <l>To let me ſee my fate!</l>
                </sp>
@@ -2489,7 +2491,7 @@ Upon the honour of a Gentleman,</l>
                   <l>How complaiſant this <hi>Major Shapely</hi> is!</l>
                   <l>His company is like the riſing ſun;</l>
                   <l>
-                     <pb n="38" facs="tcp:018365_0037_0FA6A619793493B8"/>It drives away the tedious night of grief.</l>
+                     <pb n="38" facs="unknown:018365_0037_0FA6A619793493B8"/>It drives away the tedious night of grief.</l>
                   <l>He is a moſt accompliſhed gentleman,</l>
                   <l>Deſign'd no doubt, to bleſs ſome happy bride.</l>
                   <l>I wiſh to Heav'n, that I might be the one!</l>
@@ -2567,7 +2569,7 @@ Upon the honour of a Gentleman,</l>
                   <l>They would not ſatisfy thy mind.</l>
                </sp>
                <sp>
-                  <pb n="39" facs="tcp:018365_0038_0FA6A61A37CD1478"/>
+                  <pb n="39" facs="unknown:018365_0038_0FA6A61A37CD1478"/>
                   <speaker>Mrs. J.</speaker>
                   <p>I muſt be ſatisfied.</p>
                </sp>
@@ -2644,7 +2646,7 @@ Upon the honour of a Gentleman,</l>
                   <l>It is not only beſt, but ſafeſt too:</l>
                   <l>For cowardice unhinges all our ſtrength;</l>
                   <l>
-                     <pb n="40" facs="tcp:018365_0039_0FA6A61AF76F5090"/>It makes the fancy eaſily tranſform</l>
+                     <pb n="40" facs="unknown:018365_0039_0FA6A61AF76F5090"/>It makes the fancy eaſily tranſform</l>
                   <l>A mole-hill trifle to a mountain toil;</l>
                   <l>It bids us flee for life when none purſues,</l>
                   <l>And hide from danger right in danger's way,</l>
@@ -2723,7 +2725,7 @@ Upon the honour of a Gentleman,</l>
                   </l>
                </sp>
                <sp>
-                  <pb n="41" facs="tcp:018365_0040_0FA6A61BB75C4D60"/>
+                  <pb n="41" facs="unknown:018365_0040_0FA6A61BB75C4D60"/>
                   <speaker>Shap.</speaker>
                   <l>I can't but laugh, to think how I <gap reason="illegible: indecipherable" extent="1 word">
                         <desc>〈◊〉</desc>
@@ -2824,7 +2826,7 @@ Upon the honour of a Gentleman,</l>
                   <l>Thy fears,</l>
                   <l>
                      <pb n="42"
-                         facs="tcp:018365_0041_0FA6A61C77399E78"
+                         facs="unknown:018365_0041_0FA6A61C77399E78"
                          rendition="simple:additions"/>Reſpecting Mr. <hi>Jenſon</hi>'s baſe deſign,</l>
                   <l>Have prov'd too true.</l>
                </sp>
@@ -2899,7 +2901,7 @@ Upon the honour of a Gentleman,</l>
                   <l>Good God! How kind! It makes me curſe my fate.</l>
                   <l>I wiſh I could invent ſome happy way,</l>
                   <l>
-                     <pb n="43" facs="tcp:018365_0042_0FA6A61D3786FF10"/>To baniſh <hi>Mr. Jenſon</hi> from my ſight,</l>
+                     <pb n="43" facs="unknown:018365_0042_0FA6A61D3786FF10"/>To baniſh <hi>Mr. Jenſon</hi> from my ſight,</l>
                   <l>And let this courteous Major take his place.</l>
                </sp>
                <stage>Maj. Shapely <hi>returns.</hi>
@@ -3011,7 +3013,7 @@ I would not have it here.</p>
                <stage>Mr. Jenſon <hi>goes out.</hi>
                </stage>
                <sp>
-                  <pb n="44" facs="tcp:018365_0043_0FA6A61FA454D7A0"/>
+                  <pb n="44" facs="unknown:018365_0043_0FA6A61FA454D7A0"/>
                   <speaker>Mrs. J.</speaker>
                   <l>Some other perſon! Oh! I'll be his death,</l>
                   <l>Or die myſelf.
@@ -3085,7 +3087,7 @@ Did'ſt thou obſerve?</l>
                   <l>Another day: This night ſhould be his laſt.</l>
                </sp>
                <sp>
-                  <pb n="45" facs="tcp:018365_0044_0FA6A620377A7420"/>
+                  <pb n="45" facs="unknown:018365_0044_0FA6A620377A7420"/>
                   <speaker>Shap.</speaker>
                   <p>Shall I be executioner for thee?</p>
                </sp>
@@ -3167,7 +3169,7 @@ Did'ſt thou obſerve?</l>
                <trailer>The END of the FOURTH ACT.</trailer>
             </div>
             <div n="5" type="act">
-               <pb n="46" facs="tcp:018365_0045_0FA6A620F71DB9D8"/>
+               <pb n="46" facs="unknown:018365_0045_0FA6A620F71DB9D8"/>
                <head>ACT V.</head>
                <stage>SCENE, Mr. Jenſon's <hi>houſe.</hi>
                </stage>
@@ -3241,7 +3243,7 @@ Did'ſt thou obſerve?</l>
                   <l>Bleſt period of my life!</l>
                   <l>I ſee it, as a diſtant eminence:</l>
                   <l>
-                     <pb n="47" facs="tcp:018365_0046_0FA6A621B8898E78"/>But thorns and briars fill the ſpace between.</l>
+                     <pb n="47" facs="unknown:018365_0046_0FA6A621B8898E78"/>But thorns and briars fill the ſpace between.</l>
                </sp>
                <sp>
                   <speaker>Shap.</speaker>
@@ -3324,7 +3326,7 @@ Did'ſt thou obſerve?</l>
 You are too com<g ref="char:EOLhyphen"/>plaiſant.</p>
                </sp>
                <sp>
-                  <pb n="48" facs="tcp:018365_0047_0FA6A6227710BDA0"/>
+                  <pb n="48" facs="unknown:018365_0047_0FA6A6227710BDA0"/>
                   <speaker>Shap.</speaker>
                   <l>You have too many charms.</l>
                   <l>Were I as fickle as the changing wind,</l>
@@ -3405,7 +3407,7 @@ You are too com<g ref="char:EOLhyphen"/>plaiſant.</p>
                   <l>Breaks out, to chear this land of liberty.</l>
                </sp>
                <sp>
-                  <pb n="49" facs="tcp:018365_0048_0FA6A623393514A0"/>
+                  <pb n="49" facs="unknown:018365_0048_0FA6A623393514A0"/>
                   <speaker>Wor.</speaker>
                   <l>Theſe are the works of our Almighty Friend;</l>
                   <l>Thanks to his name, that I behold this day.</l>
@@ -3529,7 +3531,7 @@ You are too com<g ref="char:EOLhyphen"/>plaiſant.</p>
                         <desc>〈…〉</desc>
                      </gap>! He don't at all ſuſpect,</l>
                   <l>
-                     <pb n="50" facs="tcp:018365_0049_0FA6A62401CD0388"/>What miſchief we intend againſt his life.</l>
+                     <pb n="50" facs="unknown:018365_0049_0FA6A62401CD0388"/>What miſchief we intend againſt his life.</l>
                   <l>It ſeems too much, altough he is a knave—</l>
                   <l>A monſtrous knave, to violate his truth,</l>
                   <l>And afterward inſult my miſery.</l>
@@ -3631,7 +3633,7 @@ You are too com<g ref="char:EOLhyphen"/>plaiſant.</p>
                   <p>Now, to the work.</p>
                </sp>
                <sp>
-                  <pb n="51" facs="tcp:018365_0050_0FA6A624B778B6D0"/>
+                  <pb n="51" facs="unknown:018365_0050_0FA6A624B778B6D0"/>
                   <speaker>Capt.</speaker>
                   <l>We are compleatly man'd. Lead on:</l>
                   <l>For you are pilot in this voyage.</l>
@@ -3719,7 +3721,7 @@ Where has <hi>Major Shapely?</hi> gone?</l>
                   <l>Look, how it drops with blood!</l>
                </sp>
                <sp>
-                  <pb n="52" facs="tcp:018365_0051_0FA6A626C474CAF8"/>
+                  <pb n="52" facs="unknown:018365_0051_0FA6A626C474CAF8"/>
                   <speaker>Shap.</speaker>
                   <l>It met his riſing breaſt;</l>
                   <l>And, urg'd with fury, pierc'd him through and through.</l>
@@ -3826,7 +3828,7 @@ What's the matter here?</l>
                   <p>There ſtop that bawling wench, or ſhe will run us all aground.</p>
                </sp>
                <sp>
-                  <pb n="53" facs="tcp:018365_0052_0FA6A627444615F0"/>
+                  <pb n="53" facs="unknown:018365_0052_0FA6A627444615F0"/>
                   <speaker>Bet.</speaker>
                   <p>Oh, murder!</p>
                </sp>
@@ -3940,7 +3942,7 @@ What's the matter here?</l>
                   <speaker>Neigh.</speaker>
                   <l>There's ſomething more;</l>
                   <l>
-                     <pb n="54" facs="tcp:018365_0053_0FA6A627B827EE48"/>What means that dagger in your hand?</l>
+                     <pb n="54" facs="unknown:018365_0053_0FA6A627B827EE48"/>What means that dagger in your hand?</l>
                </sp>
                <sp>
                   <speaker>Shap.</speaker>
@@ -4069,7 +4071,7 @@ They've kill'd my maſter.</p>
                      </gap>?</l>
                </sp>
                <sp>
-                  <pb n="55" facs="tcp:018365_0054_0FA6A628779DF210"/>
+                  <pb n="55" facs="unknown:018365_0054_0FA6A628779DF210"/>
                   <speaker>Mrs. J.</speaker>
                   <p>
                      <stage>[Reviving.]</stage>
@@ -4173,7 +4175,7 @@ Murder my huſband!</p>
                   <p>And I too?</p>
                </sp>
                <sp>
-                  <pb n="56" facs="tcp:018365_0055_0FA6A62938CD7160"/>
+                  <pb n="56" facs="unknown:018365_0055_0FA6A62938CD7160"/>
                   <speaker>Shap.</speaker>
                   <p>Both alike.</p>
                </sp>
@@ -4257,7 +4259,7 @@ Murder my huſband!</p>
                   <l>I'll gently cloſe his lids.—There, ſleep, my friend,</l>
                   <l>Poor bleeding, murder'd friend, repoſe in death.</l>
                   <l>
-                     <pb n="57" facs="tcp:018365_0056_0FA6A629F9391410"/>Thoſe cheeks, which <gap reason="illegible: indecipherable" extent="3 letters">
+                     <pb n="57" facs="unknown:018365_0056_0FA6A629F9391410"/>Thoſe cheeks, which <gap reason="illegible: indecipherable" extent="3 letters">
                         <desc>•••</desc>
                      </gap>ely bloom'd with youthful ſmiles,</l>
                   <l>Are nothing now, alas! but ghaſtly clods,</l>
@@ -4297,7 +4299,7 @@ Murder my huſband!</p>
             </div>
          </div>
          <div type="epilogue">
-            <pb facs="tcp:018365_0057_0FA6A62ACB5663B8"/>
+            <pb facs="unknown:018365_0057_0FA6A62ACB5663B8"/>
             <head>EPILOGUE.</head>
             <l>TO generous ſouls, whoſe ſentiments are right<g ref="char:punc">▪</g>
             </l>
